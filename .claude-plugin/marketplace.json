@@ -1,0 +1,15 @@
+{
+  "name": "ui-craft",
+  "description": "UI Craft: Emil Kowalski's motion and polish skills, taste-skill, and the Magic UI and Cult UI registries, merged into one Claude plugin.",
+  "owner": {
+    "name": "Sudo-Dev-Mavs"
+  },
+  "plugins": [
+    {
+      "name": "ui-craft",
+      "source": "./plugins/ui-craft",
+      "description": "Animation, interaction and UI polish, full website builds checked in a real browser, component API design, and ready-made Magic UI and Cult UI components, in one plugin.",
+      "category": "Design"
+    }
+  ]
+}
