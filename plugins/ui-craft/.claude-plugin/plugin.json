@@ -1,0 +1,23 @@
+{
+  "name": "ui-craft",
+  "version": "1.0.0",
+  "description": "Animation, interaction and UI polish (Emil Kowalski's skills), full company websites checked in a real browser (taste-skill), component API design (components.build), and ready-made Magic UI and Cult UI components, merged and deduplicated into one plugin. Start with /ui-craft:which-skill.",
+  "author": {
+    "name": "Sudo-Dev-Mavs",
+    "url": "https://github.com/Sudo-Dev-Mavs"
+  },
+  "homepage": "https://github.com/Sudo-Dev-Mavs/UI-Craft",
+  "repository": "https://github.com/Sudo-Dev-Mavs/UI-Craft",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "animation",
+    "motion",
+    "ui",
+    "frontend",
+    "websites",
+    "shadcn",
+    "magic-ui",
+    "cult-ui"
+  ]
+}
